@@ -55,6 +55,9 @@ body{
 .middle{
    margin-left: 100px;
 }
+.contentpart{
+    margin-left: 250px;
+    }
 
 
 .nav ul{
@@ -122,4 +125,8 @@ li a:hover {
 }
 h2{
   color: black;
+}
+.footlist{
+    height: 40px;
+    
 }
