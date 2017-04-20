@@ -1,6 +1,6 @@
 .heading{
   color:#00008B;
-    font-family:monsapce, sans-serif;
+    font-family:monospace, sans-serif;
   float:right;
   margin:15px;
   padding:40px;
@@ -80,7 +80,6 @@ li a:hover {
 
 
 .socialnetwork{
- decoration: none;
  float: right;
   margin: auto;
     width: 60%;
@@ -90,6 +89,8 @@ li a:hover {
 .footlist li{
   float: left;
   list-style: none;
+  width: 40px;
+  height: 40px;
   
 }
 .marquee{
