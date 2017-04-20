@@ -36,12 +36,13 @@ body{
 }
 #heading1{
   font-size:2.37em;
-  text-align:center;
+  text-align:center; 
   color:#fff;
   padding-top:0px;
   }
+ 
 .middle{
-  float: middle;
+   text-align:center;
 }
 
 
