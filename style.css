@@ -80,14 +80,20 @@ body{
 li a:hover {
     background-color: #005f5f;
 }
+#ccnatext{
+  float: left;
+}
 
 
-.socialnetwork{
+.socialmedia{
   float: left;
   margin: auto;
-    width: 60%;
-   padding: 10px;
+  width: 60%;
+  padding: 10px;
   list-style: none;
+  text-align: center;
+  font-size: 0.625em;
+}
   
 }
 .marquee{
