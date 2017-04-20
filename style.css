@@ -83,13 +83,7 @@ li a:hover {
 }
 
 
-.socialnetwork{
- float: right;
-  margin: auto;
-    width: 60%;
-   padding: 10px;
-  
-}
+
 .footlist li{
   float: left;
   list-style: none;
@@ -116,8 +110,9 @@ li a:hover {
     background-size: cover;
 }
 
-#ccnatext{
-  float:right;
+.footer{
+  float: left;
+}
 }
 h2{
   color: black;
