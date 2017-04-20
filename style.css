@@ -56,7 +56,7 @@ body{
    margin-left: 100px;
 }
 .contentpart{
-    margin-left: 250px;
+    margin-left: 500px;
     }
 
 
@@ -96,7 +96,7 @@ li a:hover {
     background-color: #005f5f;
 }
 
-.footer li{
+footer li{
   float: left;
   list-style: none;
   width: 40px;
@@ -128,5 +128,6 @@ h2{
 }
 .footlist{
     height: 40px;
+    list-style: none;
     
 }
