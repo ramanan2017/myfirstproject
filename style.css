@@ -80,16 +80,11 @@ body{
 li a:hover {
     background-color: #005f5f;
 }
-#ccnatext{
-  float: right;
-}
-
 
 .socialmedia{
   float: left;
   margin: auto;
   width: 60%;
-  padding: 10px;
   list-style: none;
   text-align: center;
   font-size: 0.625em;
@@ -102,7 +97,8 @@ li a:hover {
   padding-bottom: none;
   color:#fff;
 }
- html {
+
+html {
     height: 100%;
     margin: 0;
 }
